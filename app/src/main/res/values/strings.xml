@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculatorTest02</string>
+    <array name="math_options">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+<!--        <item>Log</item>-->
+    </array>
+</resources>
