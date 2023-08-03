@@ -50,10 +50,13 @@
     <Button
         android:id="@+id/proceedButton"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="70dp"
         android:layout_below="@id/spinner"
+        android:layout_marginStart="37dp"
+        android:layout_marginTop="27dp"
+        android:layout_marginEnd="37dp"
+        android:layout_marginBottom="27dp"
         android:gravity="center"
-        android:layout_margin="27dp"
         android:text="Proceed" />
 
     <TextView
