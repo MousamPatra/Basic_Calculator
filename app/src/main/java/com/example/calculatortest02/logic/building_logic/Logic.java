@@ -40,7 +40,7 @@ public class Logic implements LogicInterface{
                 mOut.printOutput(mOperation.Calculation(value1,value2));
                 break;
             default:
-                mOut.printOutput("Invalid Operation!!");
+                mOut.printOutput("Invalid Operation!");
         }
     }
 }
